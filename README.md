@@ -34,3 +34,14 @@ On this dedicated "To-Do List" page, you'll find a comprehensive overview of all
 
 
 
+Moreover, the functionality extends beyond mere visualization. You're given two distinct options:
+
+Update: If you need to modify any aspect of a particular task, such as changing the description, date, or time, the "Update" option allows you to seamlessly make these adjustments. This adaptability ensures that your to-do list remains accurate and up-to-date, reflecting any changes in your plans.
+
+Delete: In case a task is completed or no longer relevant, the "Delete" option lets you effortlessly remove it from your list. This maintains the relevance and cleanliness of your to-do list, ensuring that you're focused on the tasks that truly matter.
+
+
+
+
+
+
