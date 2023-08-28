@@ -20,3 +20,17 @@ By providing this comprehensive form, the website empowers you to seamlessly add
 
 
 ![Screenshot 2023-08-28 225028](https://github.com/shubham2845/To_Do_List_PHP/assets/131697566/2c0293ad-7b2d-415e-a107-cd6fdae0cc2d)
+
+
+
+
+Once you've successfully added all the necessary details through the "Add Details" form, you gain the ability to access and review your compiled to-do list. When you choose the "To-Do List" option from the homepage, the website guides you to a designated page where all your recorded tasks and events are neatly displayed.
+
+On this dedicated "To-Do List" page, you'll find a comprehensive overview of all the details you've entered. This presentation empowers you to have a clear visual representation of the tasks and their corresponding dates and times, enabling you to effectively manage your commitments.
+
+
+
+![Screenshot 2023-08-28 225552](https://github.com/shubham2845/To_Do_List_PHP/assets/131697566/53a47440-2aee-4bf7-9826-5a929689a75c)
+
+
+
