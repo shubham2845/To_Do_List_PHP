@@ -42,6 +42,8 @@ Delete: In case a task is completed or no longer relevant, the "Delete" option l
 
 
 
+![Screenshot 2023-08-28 225841](https://github.com/shubham2845/To_Do_List_PHP/assets/131697566/b8a940a1-1a00-4403-9212-1e39d1710b49)
+
 
 
 
