@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(rgba(131, 7, 96, 0.718),rgba(2, 7, 8, 0.663)),url(logoback.jpg);
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+.firsttt{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+    margin-right: 10px;
+}
+.firsttt a{
+     text-decoration: none;
+    margin: 0 10px;
+    color: #d6c7c7;
+}
+.first{
+    /* background-color: aliceblue; */
+    background-image: linear-gradient(rgba(240, 188, 225, 0.718),rgba(135, 144, 149, 0.663));
+    max-width: 500px;
+    width: 100%;
+    margin: 50px auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.50);
+   border-radius: 5px;
+   padding: 20px;
+
+
+}
+
+.first .title{
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.first .items{
+
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+.first .items label{
+    /* border: 2px solid black; */
+    width: 200px;
+    margin-right:14px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.first .items input
+{
+    width: 100%;
+    outline: none;
+    border: 1px solid#D071F9;
+    font-size: 15px;
+    padding: 8px 20px;
+    border-radius: 3px;
+    transition: all 0.5s ease;
+}
+
+.first .second{
+    width: 100%;
+}
+
