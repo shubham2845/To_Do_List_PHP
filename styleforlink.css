@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+
+    position: absolute;
+    top: 10px; /* Adjust the top position as needed */
+    left: 20px;
+    height: 100px; /* Adjust the left position as needed */
+    width: 100px; /* Set the width of the logo */
+    z-index: 1; /*Ensure the logo is above other content*/
+}
+
+.middle{
+    width:90%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+
+}
+
+.middle .hero-btn{
+    font-size: 28px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+    padding: 15px 50px;
+    cursor: pointer;
+    /* background: transparent; */
+}
+
+.first{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+    margin-right: 10px;
+}
+.first a{
+    text-decoration: none;
+    margin: 0 10px;
+    color: #d6c7c7;
+}
+body{
+     /* background-image: linear-gradient(rgba(17, 1, 1, 0.718),rgba(31, 3, 3, 0.663)),url(todo.jpg);  */
+    background-image: linear-gradient(rgba(131, 7, 96, 0.718),rgba(2, 7, 8, 0.663)),url(logoback.jpg);
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+.second{
+    margin-top: 400px;
+    width: 500px;
+}
+.second h2{
+    font-size: 24px;
+    color: #d6c7c7;
+}
+.second p{
+    color: #d6c7c7;
+}
+
+.third{
+    text-decoration: none;
+    width: 550px;
+    margin-top: 0;
+    margin-left: 950px;
+    color: #d6c7c7;
+}
+.third p{
+    width: 100%;
+}
+
